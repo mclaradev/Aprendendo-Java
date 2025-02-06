@@ -1,7 +1,7 @@
 public class PromocaoAutomatica {
 	public static void main(String[] args){
-		byte a = 84;
-		short b = 3246;
+		byte a = 10;
+		short b = 3126;
 		int c = 2146783943;
 		long d = 5881564L;
 		float e = 1.4798f;
