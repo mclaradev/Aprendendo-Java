@@ -1,9 +1,9 @@
 public class PromocaoAutomatica {
 	public static void main(String[] args){
-		byte a = 100;
-		short b = 32666;
+		byte a = 84;
+		short b = 3246;
 		int c = 2146783943;
-		long d = 56454357879881564L;
+		long d = 5881564L;
 		float e = 1.4798f;
 		double f = 693.50;
 		char g = 'F';
@@ -11,7 +11,7 @@ public class PromocaoAutomatica {
 		int soma = a + b;
 		long subtracao = c - d;
 		double multiplicacao = e * f;
-		long divisao = a / d;
+		long divisao = a / b;
 
 		System.out.println("Resultado da soma: " + soma);
 		System.out.println("Resultado da subtração: " + subtracao);
