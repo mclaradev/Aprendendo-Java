@@ -14,5 +14,16 @@ public class Main {
 		// int a = 10;
 		// double b = 1.5;
 		// double c = a * b
+
+		int number = 9;
+		String resultado;
+
+		if (number % 2 == 0) {
+			resultado = "par";
+		} else {
+			resultado = "ímpar";
+		}
+
+		System.out.println("O número é: " + resultado);
 	}
 }
