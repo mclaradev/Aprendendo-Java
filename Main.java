@@ -22,7 +22,7 @@ public class Main {
 		//} else {
 		//	System.out.println("Ok, seu número é maior..."); }
 
-		int dia = 5;
+		/* int dia = 5;
 		String resultado;
 
 		switch (dia){
@@ -34,6 +34,6 @@ public class Main {
 			default -> resultado = "desconhecido";
 		}
 
-		System.out.println(resultado);
+		System.out.println(resultado); */
 	}
 }
