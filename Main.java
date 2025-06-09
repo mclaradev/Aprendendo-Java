@@ -21,5 +21,19 @@ public class Main {
 		//	System.out.println("Meu número é maior.");
 		//} else {
 		//	System.out.println("Ok, seu número é maior..."); }
+
+		int dia = 5;
+		String resultado;
+
+		switch (dia){
+			case 1 -> resultado = "Segunda-Feira";
+			case 2 -> resultado = "Terça-Feira";
+			case 3 -> resultado = "Quarta-Feira";
+			case 4 -> resultado = "Quinta-Feira";
+			case 5 -> resultado = "Sexta-Feira";
+			default -> resultado = "desconhecido";
+		}
+
+		System.out.println(resultado);
 	}
 }
