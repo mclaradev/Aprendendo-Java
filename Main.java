@@ -15,15 +15,11 @@ public class Main {
 		// double b = 1.5;
 		// double c = a * b
 
-		// int number = 9;
-		// String resultado;
+		// int number = 15;
 
-		// if (number % 2 == 0) {
-			// resultado = "par";
-		// } else {
-		//	resultado = "ímpar";
-		// }
-
-		// System.out.println("O número é: " + resultado);
+		//if (number > 10) {
+		//	System.out.println("Meu número é maior.");
+		//} else {
+		//	System.out.println("Ok, seu número é maior..."); }
 	}
 }
