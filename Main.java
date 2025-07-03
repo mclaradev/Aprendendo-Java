@@ -38,8 +38,18 @@ public class Main {
 
 		//loops - for
 
-		for (int i = 0; i < 5; i++){
-			System.out.println(i);
+		//for (int i = 0; i < 5; i++){
+		//	System.out.println(i);
+		//}
+
+		//loops - while
+
+		int w = 0;
+
+		while(w < 5){
+			System.out.println(w);
+
+			w++;
 		}
 	}
 }
