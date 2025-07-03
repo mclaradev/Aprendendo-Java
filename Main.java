@@ -44,12 +44,22 @@ public class Main {
 
 		//loops - while
 
-		int w = 0;
+		/*int w = 0;
 
 		while(w < 5){
 			System.out.println(w);
 
 			w++;
-		}
+		}*/
+
+		//loops - do while
+		 int d = 20;
+
+		 do {
+			 System.out.println(d);
+
+			 d++;
+
+		 } while(d < 5);
 	}
 }
