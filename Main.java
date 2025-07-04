@@ -53,13 +53,13 @@ public class Main {
 		}*/
 
 		//loops - do while
-		 int d = 20;
+		/* int d = 20;
 
 		 do {
 			 System.out.println(d);
 
 			 d++;
 
-		 } while(d < 5);
+		 } while(d < 5);*/
 	}
 }
